@@ -1,8 +1,8 @@
 name: inspec-tfkit
 title: InSpec Profile for testing inspec-tfkit
-maintainer: Matt Ray
-copyright: Matt Ray
-copyright_email: matt@chef.io
+maintainer: 
+copyright: Andreas Heumaier
+copyright_email: info@andreasheumaier.de
 license: Apache-2.0
 summary: An InSpec Compliance Profile for testing inspec-tfkit
 version: 0.1.0

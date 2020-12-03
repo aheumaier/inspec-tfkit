@@ -1,8 +1,7 @@
 # encoding: UTF-8
 #
-# Author:: Matt Ray (<matt@chef.io>)
+# Author:: Andreas Heumaier (<info@andreasheumaier.de>)
 #
-# Copyright:: 2018, Chef Software, Inc <legal@chef.io>
 #
 require "helper"
 
